@@ -1,0 +1,82 @@
+github
+
+slurms/**/*.log
+
+.ipynb_checkpoints
+
+*.DS_Store
+ftpconfigs
+.ftp*
+core.*
+slurm-*
+
+*.jpg
+*.txt
+*.mp4
+*.mkv
+
+# compilation and distribution
+__pycache__
+_ext
+*.pyc
+*.so
+AdelaiDet.egg-info/
+build/
+dist/
+
+# pytorch/python/numpy formats
+*.pth
+*.pkl
+*.npy
+
+# ipython/jupyter notebooks
+#*.ipynb
+**/.ipynb_checkpoints/
+
+# Editor temporaries
+*.swn
+*.swo
+*.swp
+*~
+
+# Pycharm editor settings
+.idea
+.vscode
+.python-version
+
+# project dirs
+data/*
+checkpoints/*
+
+
+.git_orig_bkp 
+.ipynb_checkpoints 
+.vscode 
+
+# compilation and distribution
+__pycache__
+_ext
+*.pyc
+*.so
+AdelaiDet.egg-info/
+build/
+dist/
+
+# pytorch/python/numpy formats
+*.pth
+*.pkl
+*.npy
+
+# ipython/jupyter notebooks
+**/.ipynb_checkpoints/
+
+# Editor temporaries
+*.swn
+*.swo
+*.swp
+*~
+
+# Pycharm editor settings
+.idea
+.vscode
+.python-version
