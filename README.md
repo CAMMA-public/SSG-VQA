@@ -8,7 +8,7 @@
 # **Advancing Surgical VQA with Scene Graph Knowledge**
 _Kun Yuan, Manasi Kattel, Joel, L. Lavanchy, Nassir Navab, Vinkle Srivastav, Nicolas Padoy_, 2023
 #
-This repo contains an open source PyTorch code and the dataset for the paper: [Advancing Surgical VQA with Scene Graph Knowledge](https://arxiv.org/)  
+This repo contains an open source PyTorch code and the dataset for the paper: [Advancing Surgical VQA with Scene Graph Knowledge](https://arxiv.org/abs/2312.10251)
 
 [![arXiv](https://img.shields.io/badge/arxiv-2312.10251-red)](https://arxiv.org/abs/2312.10251)
 
