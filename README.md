@@ -35,7 +35,7 @@ Our comprehensive analysis of the SSG-VQA dataset shows that SSG-VQA-Net outperf
 ## Environment
 You need to have a Anaconda3 installed for the setup. We developed the code on Python 3.8, PyTorch 1.7.1, and CUDA 10.2.
 ```bash
-$ git clone https://github.com/CAMMA-public/SSG-QA.git
+$ git clone https://github.com/CAMMA-public/SSG-VQA.git
 $ conda env create -f environment.yml
 $ conda activate ssgvqa
 ```
@@ -62,7 +62,7 @@ Download question-answer pairs from from our S3 server and unzip it into **./dat
 (ssgvqa)$ python utils/feat_extract_visual.py
 (ssgvqa)$ python utils/feature_extract_roi.py
 ```
-### Model weights for the SSG-QA-Net
+### Model weights for the SSG-VQA-Net
 Place the model weights in the [`checkpoints`](./checkpoints) directory
 |   Model      |  Model Weights |
 | :----------: | :-----:   |
