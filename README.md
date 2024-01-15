@@ -9,7 +9,6 @@
 _Kun Yuan, Manasi Kattel, Joel, L. Lavanchy, Nassir Navab, Vinkle Srivastav, Nicolas Padoy_, 2023
 
 <div align="center">
-<a href="http://camma.u-strasbg.fr/">
 <img src="asset/ssg-vqa.jpg" width="100%">
 </a>
 </div>
