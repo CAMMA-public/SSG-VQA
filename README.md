@@ -56,6 +56,10 @@ Download question-answer pairs from from our S3 server and unzip it into **./dat
 (ssgvqa)$ wget https://s3.unistra.fr/camma_public/github/ssg-qa/ssg-qa.zip
 (ssgvqa)$ unzip ssg-qa.zip -d ./data/qa_txt
 ```
+#### Scene Graphs
+We provide the scene graph in **scene_graph_ssgqa.zip** in .json format.          
+The relationship is a list, where index is the subject of this relationship, and the index is the target, e.g., 'left': [[1, 2], [], []], means the 0 object is to the left of object 1 and 2.            
+The image size that bounding boxes are corresponded to is (240, 430)   
 #### Visual features
 -  (Recommended) Download the features to train and test the model from our S3 server and unzip the files into folder **./data/visual_feats** folder   
 
