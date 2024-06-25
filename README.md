@@ -144,10 +144,13 @@ The SSG-VQA dataset is a multi-class classification-based VQA dataset, we report
 This dataset could only be generated thanks to the continuous support from our clinical partners. If you use this dataset, you are kindly requested to
 cite the work that led to the generation of this dataset:
 ```bibtex
-@article{yuan2023advance,
-  title={Advancing Surgical VQA with Scene Graph Knowledge},
-  author={Kun, Yuan and Manasi, Kattel and Joel, L. Lavanchy and Nassir, Navab and Vinkle, Srivastav and Nicolas, Padoy},
-  year={2023}
+@article{yuan2024advancing,
+  title={Advancing surgical VQA with scene graph knowledge},
+  author={Yuan, Kun and Kattel, Manasi and Lavanchy, Jo{\"e}l L and Navab, Nassir and Srivastav, Vinkle and Padoy, Nicolas},
+  journal={International Journal of Computer Assisted Radiology and Surgery},
+  pages={1--9},
+  year={2024},
+  publisher={Springer}
 }
 ```
 [[`Download PDF`](https://arxiv.org/pdf/2312.10251.pdf)]
