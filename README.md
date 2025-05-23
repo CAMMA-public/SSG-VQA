@@ -6,7 +6,7 @@
 
 
 # **Advancing Surgical VQA with Scene Graph Knowledge**
-_Kun Yuan, Manasi Kattel, Joel, L. Lavanchy, Nassir Navab, Vinkle Srivastav, Nicolas Padoy_, 2023
+_Kun Yuan, Manasi Kattel, Joel, L. Lavanchy, Nassir Navab, [Vinkle Srivastav](https://vinkle.github.io/), Nicolas Padoy_, 2023
 
 <div align="center">
 <img src="asset/ssg-vqa.jpg" width="100%">
